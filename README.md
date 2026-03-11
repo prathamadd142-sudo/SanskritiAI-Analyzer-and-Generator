@@ -22,3 +22,7 @@ Matplotlib
 
 💡 Project Goal:
 The goal of Sanskriti-AI is to demonstrate how data science, Sanskrit linguistic parsing, and simple AI logic can be used to analyze and visualize yoga poses.
+Technical Demonstration Below is a real-time capture-
+
+https://github.com/user-attachments/assets/6136f697-1b53-4cd1-965e-769784ba297c
+
